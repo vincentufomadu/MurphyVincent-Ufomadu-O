@@ -1,6 +1,13 @@
-</body>
+<html>
+ <head>
+ <style>
+ body{
+   background color:lightblue}
+ h2 { color: yellow; font-size: 18pt; }
+ </style>
+ </head>
+ <body>
+ <h3> This will be yellow font size 18 </h3>
+ …
+ </body>
 </html>
-<style>
-body{background color: lightblue;}
-h1{color: red}
-h2{color: blue}
