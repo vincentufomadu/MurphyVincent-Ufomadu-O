@@ -2,13 +2,16 @@ body {
     background-color: lightgreen;
 }
 h1 {
-    color: red;
+    color: blue;
+}
+h1 {
+  font-style: italic;
 }
 h2 {
   color: black;
 }
 p {
-    color: blue;
+    color: black;
 }
 h1 {
   text-align: center;
@@ -36,4 +39,22 @@ h5 {
 }
 p {
   font-size: 100%;
+}
+a href {
+  text-align: center;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 5px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
 }
